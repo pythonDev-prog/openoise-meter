@@ -1,0 +1,7 @@
+{
+  "name": "Industrial Acoustic Diagnostic Tool",
+  "description": "A high-precision real-time acoustic analysis tool for machinery maintenance. Monitors decibel levels and frequency peaks to identify mechanical irregularities based on industrial standards.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
